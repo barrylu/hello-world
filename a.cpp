@@ -7,5 +7,6 @@ int main()
     printf( "hello lijuan\n" );
     printf( "do you wanna build a snow man with me?\n" );
     printf( "juan are so pretty\n" );
+    printf( "juan like me very much" );
 }
 
